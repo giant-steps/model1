@@ -1,0 +1,9 @@
+---
+title: "A New Model"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+In this R notebook, I will create a model for a new dataset, using "predictive_model.Rmd" from the Data Wrangling Workshop. 
+
